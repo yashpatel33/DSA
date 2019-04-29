@@ -1,0 +1,13 @@
+1. Student
+2. Matrix
+3. String
+4. Pinnacle
+5. Binary
+6. Set
+7.Palindrome
+8. Infix2Postfix
+9. Queue
+10. Dequeue
+11. Selection Sort
+12. Bubble Sort
+13. Quick Sort
